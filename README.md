@@ -47,10 +47,10 @@ If people are stuck, they can consume their points to get some tips. Tips can be
 
 
 ### StarkNet-Edu Messaging Bridge Tutorial learning experiences notes
-- [Voyager](https://goerli.voyager.online) seems having issues display correct message state and flow directions. [Version 2](https://beta.voyager.online/) is better.
-- Need to be careful cause the layer2 -> layer1 message flow is very slow. Not sure there is a way to test layer1 <-> layer2 interoperability locally. So if there is sth wrong, it will cost a great time to redo it.
+- [Voyager](https://goerli.voyager.online) seems having issues to display correct message state and flow directions. [Version 2](https://beta.voyager.online/) is better.
+- Need to be careful cause the layer2 -> layer1 message broadcast is very slow. Not sure there is a way to test layer1 <-> layer2 interoperability locally. So if there is sth wrong, it will cost a great time to redo it.
 
 ### Summary
-I really enjoy the learning process and hacking moments. Will continue to explore more.
+I really enjoyed the learning experience and hacking moments. Will continue to explore more.
 
 What's next step to learn? starknet.js?
