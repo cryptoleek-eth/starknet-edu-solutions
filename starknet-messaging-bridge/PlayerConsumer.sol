@@ -3,8 +3,8 @@
 pragma solidity ^0.8.0;
 
 import "@openzeppelin/contracts/token/ERC721/ERC721.sol";
-import "./IStarknetCore.sol";
-import "./ISolution.sol";
+import "./contracts/L1/interfaces/IStarknetCore.sol";
+import "./contracts/L1/interfaces/ISolution.sol";
 import "@openzeppelin/contracts/access/Ownable.sol";
 
 contract PlayerConsumer is Ownable {
