@@ -45,7 +45,6 @@ If people are stuck, they can consume their points to get some tips. Tips can be
   ![](https://user-images.githubusercontent.com/85657906/174599756-ef7bf7e8-b1ee-4659-aca3-1cbff90bf7f6.png)
   - Exercise 18 seems give some misleading infomation such as `withdraw function so that it uses transferFrom() in ExerciseSolutionToken`
 
-
 ### StarkNet-Edu Messaging Bridge Tutorial learning experiences notes
 - [Voyager](https://goerli.voyager.online) seems having issues to display correct message state and flow directions. [Version 2](https://beta.voyager.online/) is better.
 - Need to be careful cause the layer2 -> layer1 message broadcast is very slow. Not sure there is a way to test layer1 <-> layer2 interoperability locally. So if there is sth wrong, it will cost a great time to redo it.
