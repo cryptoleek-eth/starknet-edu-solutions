@@ -24,6 +24,10 @@ Have a good story + some good images will be much more fun and engaging.
 Leaners are very likely to get stuck somewhere and there isn't much discord support around. I have to wait several hours or days before getting people to anwser my questions. So I suggest to introduce a Tip or hints system.
 If people are stuck, they can consume their points to get some tips. Tips can be subimitted by the communities with a reputation system.
 
+#### A further learning path or road map
+From my personal perspective, it's totaly cool that I spent numerous hours to finish the tutorial and feel so proud of myself. But what's next? In the tutorial it would be good have an advanced session or some futher readings sessions to guide the developers who just fall into the STARK rabbit hole. For me, now I have to figure out what's my next learning journey in STARK ecosystem. There are lots of things out there and dont know what to choose. 
+
+
 ### StarkNet-Edu ERC721 Tutorial learning experiences
 - The Reference 'token_id' was revoked.
   - Manage to find the answers in Discord after several hours trying and asking
