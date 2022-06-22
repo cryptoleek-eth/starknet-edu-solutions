@@ -53,6 +53,13 @@ From my personal perspective, it's totaly cool that I spent numerous hours to fi
 - [Voyager](https://goerli.voyager.online) seems having issues to display correct message state and flow directions. [Version 2](https://beta.voyager.online/) is better.
 - Need to be careful cause the layer2 -> layer1 message broadcast is very slow. Not sure there is a way to test layer1 <-> layer2 interoperability locally. So if there is sth wrong, it will cost a great time to redo it.
 
+### What can I contribute to the ecosystem
+First, I can engage myself more into both english and chinese STARK dev communities and answer questions. That's essential since lots of simple and duplicated questions out there and no one answer such as `In my contractor there are four arguments, but when i passed in, the compiler expect 5 arguments etc.`
+
+Second, I would like to co-dev a more engaging StarkEdu learning experiences such as putting a story line and good visual graphics etc. Develop a set of contracts which can give hints and tips, also redeemed their points for NFTs as an badge to show off in the community.
+
+Third, I can run some meetups in Australia and South Eastern Asian territory and spread the words about STARK net and CairoLang. In fact, I am running a Melbourn STARKNET group at the moment.  https://www.meetup.com/starknet-melbourne/events/286679765/
+
 ### Summary
 I really enjoyed the learning experience and hacking moments. Will continue to explore more.
 
