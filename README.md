@@ -54,7 +54,7 @@ From my personal perspective, it's totaly cool that I spent numerous hours to fi
 - Need to be careful cause the layer2 -> layer1 message broadcast is very slow. Not sure there is a way to test layer1 <-> layer2 interoperability locally. So if there is sth wrong, it will cost a great time to redo it.
 
 ### What can I contribute to the ecosystem
-First, I can engage myself more into both english and chinese STARK dev communities and answer questions. That's essential since lots of simple and duplicated questions out there and no one answer such as `In my contractor there are four arguments, but when i passed in, the compiler expect 5 arguments etc.`
+First, I can engage myself more into both english and chinese STARK dev communities and answer questions. That's essential since lots of simple and duplicated questions out there and no one answer such as `In my contract there are four arguments, but when i passed in, the compiler expect 5 arguments etc.`
 
 Second, I would like to co-dev a more engaging StarkEdu learning experiences such as putting a story line and good visual graphics etc. Develop a set of contracts which can give hints and tips, also redeemed their points for NFTs as an badge to show off in the community.
 
