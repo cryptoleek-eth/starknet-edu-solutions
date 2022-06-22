@@ -29,7 +29,7 @@ If people are stuck, they can consume their points to get some tips. Tips can be
   - Manage to find the answers in Discord after several hours trying and asking
 - Contract caller reference
   - Manage to find the answers in Discord after several hours trying and asking.
-  - ![](https://user-images.githubusercontent.com/85657906/174252994-94e15b77-ac8a-466d-ae45-4c0ac7399a81.jpg)
+  ![](https://user-images.githubusercontent.com/85657906/174252994-94e15b77-ac8a-466d-ae45-4c0ac7399a81.jpg)
 - Nile Local env setup and debugging
   - For some complex tasks, I have to setup the Nile local envs to do some debugging.
   - It took a good couple of hours to redeploy all the cairo codes
